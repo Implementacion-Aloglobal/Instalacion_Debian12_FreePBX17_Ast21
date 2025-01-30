@@ -11,8 +11,8 @@ Este manual proporciona una guía detallada para la instalación y configuració
 
 ### Credenciales de Acceso
 - **Usuario:** root
-- **Contraseña:** vonaGe3102iP
-- **Dirección IP:** 64.23.152.28
+- **Contraseña:** CONTRASEÑA
+- **Dirección IP:** IP SERVIDOR
 - **Puerto SSH:** `22`
 
 ### Proceso de Instalación
@@ -88,6 +88,6 @@ Si tiene preguntas o problemas, puede abrir un *issue* en este repositorio.
 
 ---
 
-**Autor:** VCamilo Piedrahita - Aloglobal 
+**Autor:** Camilo Piedrahita - Aloglobal 
 **Repositorio:** https://github.com/Implementacion-Aloglobal/Instalaci-n-y-Configuraci-n-del-Servidor-Aloglobal-Debian_12-FreePBX_17-Asteris_21/
 
